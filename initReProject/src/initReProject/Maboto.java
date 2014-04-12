@@ -6,6 +6,7 @@ public class Maboto {
 		// TODO Auto-generated method stub
 		System.out.println("Third Hello Github Modified");
 		NewClass.speak();
+		System.out.println("Rapid");
 	}
 
 }
